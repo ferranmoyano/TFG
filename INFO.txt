@@ -1,0 +1,8 @@
+Treball Final de Grau 
+"Millora i redisseny d'un robot delta"
+
+Autor
+Ferran Moyano
+
+Tutor
+Manel Velasco
